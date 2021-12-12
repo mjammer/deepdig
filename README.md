@@ -2,6 +2,5 @@
 
 dig by cilium/ebpf
 
-```shell
-go generate ./...
-```
+make generate
+make build
